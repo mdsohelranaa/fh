@@ -1,0 +1,48 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.content ul{
+   
+    
+   margin-left: 50px;
+    list-style: none;
+     
+}
+ .banar{
+    background: url(https://i.ibb.co/Gvt1H8P/slider-image-mobile-apps2.jpg);
+    width: 100%;
+    position: relative;
+     
+ }
+ .icon-box ul{
+    
+     
+ }
+.icon-box{
+     
+    padding: 200px 0;
+	text-align: center;
+}
+.icon {
+	 
+    display: inline-block;
+	margin-left: 31px;
+	 
+}
+ 
+   
+   
+
+/* li::before{
+    content: "\f4fc";
+    font-family: "Font Awesome 5 free";
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    padding:5px ;
+} */
